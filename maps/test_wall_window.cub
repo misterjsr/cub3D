@@ -1,0 +1,17 @@
+R 800 600
+
+NO ./textures/stone.xpm
+SO ./textures/wood.xpm
+WE ./textures/redbrick.xpm
+EA ./textures/mossy.xpm
+
+S ./textures/coronavirus.xpm
+
+F 220,100,0
+C 125,30,0
+
+11111111
+10000001
+10000001
+100N0001
+11111111

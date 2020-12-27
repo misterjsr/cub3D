@@ -1,0 +1,14 @@
+R 3840 2160
+NO ./textures/stone.xpm
+SO ./textures/wood.xpm
+WE ./textures/mossy.xpm
+EA ./textures/redbrick.xpm
+
+S ./textures/coronavirus.xpm
+F 57, 105, 188 
+C 366, 151, 51
+
+1111
+1001
+1001
+1111

@@ -1,0 +1,15 @@
+R 1920 1080
+NO ./textures/stone.xpm
+SO ./textures/wood.xpm
+WE ./textures/mossy.xpm
+EA ./textures/redbrick.xpm
+EA ./textures/redbrick.xpm
+
+S ./textures/coronavirus.xpm
+F 224,172,105
+C 205,249,255
+
+
+1111
+1N01
+1111
